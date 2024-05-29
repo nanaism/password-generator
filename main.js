@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", () => {
     result.style.opacity = 0;
     setTimeout(() => {
       result.style.opacity = 1;
-    }, 10);
+    }, 0);
   });
 
   // ランダムな文字を取得する関数
